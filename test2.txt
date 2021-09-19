@@ -1,0 +1,13 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 78B5-2C31
+
+ Directory of D:\JAVA Programs\GIT top 40 Interview Questions\MyProject
+
+19-09-2021  20:40    <DIR>          .
+19-09-2021  20:40    <DIR>          ..
+19-09-2021  19:59               469 myFile.txt
+19-09-2021  19:47                 0 Readme.txt
+19-09-2021  17:33               349 test1.txt
+19-09-2021  20:40                 0 test2.txt
+               4 File(s)            818 bytes
+               2 Dir(s)  495,120,187,392 bytes free
