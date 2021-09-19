@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9C62-E0BF
+
+ Directory of C:\Users\Anagha\Desktop\MyProject
+
+19-09-2021  17:33    <DIR>          .
+19-09-2021  17:33    <DIR>          ..
+19-09-2021  17:33                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  168,944,697,344 bytes free
